@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Research-to-Infographic Machine transforms long-form academic papers into visually structured, social-media-ready infographics while maintaining factual alignment with the original source.
+The Research-to-Infographic Machine transforms long-form academic papers into visually structured infographics while maintaining factual alignment with the original source.
 
 Unlike traditional summarization tools, this system prioritizes **faithfulness, transparency, and explainability** by verifying generated content against source material and surfacing evaluation results directly to the user.
 
@@ -30,7 +30,7 @@ Unlike traditional summarization tools, this system prioritizes **faithfulness, 
 
   * Missing context caveats
   * Misleading simplifications
-  * Unsupported or weakly supported claims
+  * Supported and/or partially supported claims
 
 ---
 
