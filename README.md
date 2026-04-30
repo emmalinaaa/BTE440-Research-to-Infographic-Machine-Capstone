@@ -117,19 +117,6 @@ Stronger verification significantly improves trust, but may reduce completeness 
 
 ---
 
-## Repository Structure
-
-```
-.
-├── prompts/              # Prompt templates for each stage
-├── pipeline/             # Pipeline documentation
-├── examples/             # Sample inputs and outputs
-├── ui/                   # Interface code (if applicable)
-└── README.md
-```
-
----
-
 ## Example Pipeline Flow
 
 ```
