@@ -112,8 +112,8 @@ Stronger verification significantly improves trust, but may reduce completeness 
 
 * Google AI Studio (Gemini models)
 * Retrieval-Augmented Generation (RAG)
-* Python (optional for pipeline/UI)
-* Gradio (for interface, if applicable)
+* TypeScript (frontend / UI logic)
+* HTML/SVG (for infographic rendering output)
 
 ---
 
